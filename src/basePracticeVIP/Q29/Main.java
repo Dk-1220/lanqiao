@@ -1,4 +1,4 @@
-package basePractice.Q29;
+package basePracticeVIP.Q29;
 
 import java.util.Scanner;
 
